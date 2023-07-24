@@ -8,7 +8,7 @@
  
  <div align="center">
 
- [![My Skills](https://skillicons.dev/icons?i=react,aws,mysql,postagres,mongodb,git&theme=dark)](https://skillicons.dev)   
+ [![My Skills](https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb,git&theme=dark)](https://skillicons.dev)   
  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: lucaswolf1323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
