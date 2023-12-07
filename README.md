@@ -1,20 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=61dbfbf&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Olá,+eu+sou+o+Lucas)](https://git.io/typing-svg)
 
 <div align="center">
-  <img  height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasDBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasDBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br><br><br>
 
+<h1 align="center">Minhas Habilidades</h1>
 <p align="center">
-  <h1>Minhas Habilidades</h1>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
 </p>
 
 <div align="center">
