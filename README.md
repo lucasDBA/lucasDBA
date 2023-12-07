@@ -8,9 +8,9 @@
  
   <div align="center">
 
+  [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://icons8.com/icon/10429/sql)
   [![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)](https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server)
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,cs,git&theme=dark)](https://skillicons.dev)
-  
 
    <h1 align="center">Redes Sociais</h1>
      <a href = "mailto: lucaswolf1323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
