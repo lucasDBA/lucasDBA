@@ -4,10 +4,12 @@
   <img  height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasDBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
   <br> <br>
+ </div>
+ <br><br><br>
   [![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)](https://icons8.com/icon/3764/sql)
   [![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)](https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server)
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,cs,git&theme=dark)](https://skillicons.dev)
- </div>
+  
   <div align="center">
    <h1 align="center">Redes Sociais</h1>
      <a href = "mailto: lucaswolf1323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
