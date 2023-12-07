@@ -9,7 +9,7 @@
   <div align="center">
 
   [![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)](https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server)
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,git&theme=dark, c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,git&theme=dark)](https://skillicons.dev)
   
 
    <h1 align="center">Redes Sociais</h1>
