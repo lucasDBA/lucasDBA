@@ -8,12 +8,12 @@
 
 <h1 align="center">Minhas Habilidades</h1>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="50" style="margin-right: 20px"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50" style="margin-right: 20px"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="50" style="margin-right: 20px"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="50" style="margin-right: 20px"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" style="margin-right: 20px"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50" style="margin-right: 20px"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="50" style="margin-right: 40px"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50" style="margin-right: 40px"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="50" style="margin-right: 40px"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="50" style="margin-right: 40px"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" style="margin-right: 40px"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50" style="margin-right: 40px"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
 </p>
 
