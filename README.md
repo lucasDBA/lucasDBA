@@ -6,11 +6,7 @@
   <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
   <br> <br>
   <div>
- </section>
-<section>
-
- 
-</section>
+  </section>
  <section>
   <div align="center">
  
