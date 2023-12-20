@@ -7,9 +7,10 @@
 </section>
 <section align="center">
   <div align="center">
-    <img align="right" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
   </div>
 </section>
+
 <br><br><br>
 <br><br><br>
 
