@@ -5,10 +5,11 @@
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasDBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </div>
 </section>
-
-<div align="center">
-  <img align="right" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
-</div>
+<section>
+  <div align="center">
+    <img align="right" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
+  </div>
+</section>
 <br><br><br>
 <br><br><br>
 
