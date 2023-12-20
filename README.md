@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=61dbfbf&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Olá,+eu+sou+o+Lucas)](https://git.io/typing-svg)
 
-<section>
+<section align="center">
   <div align="center">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasDBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </div>
 </section>
-<section>
+<section align="center">
   <div align="center">
     <img align="right" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasDBA&layout=compact&langs_count=16&theme=react"/>
   </div>
